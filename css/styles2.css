@@ -1,0 +1,8 @@
+#navbar a.active2 {
+    border-bottom: 4px solid saddlebrown;
+    font-weight: bold;
+}
+
+#footer {
+    margin-top: 14em;
+}
